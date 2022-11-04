@@ -1,0 +1,9 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "A fully fledged blog application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
